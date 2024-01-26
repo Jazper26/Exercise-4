@@ -14,3 +14,7 @@ num_y = [75, 65, 35, 75, 30]
 # Test the function if it works
 res_x = equal(num_x)
 res_y = equal(num_y)
+
+# Print the results
+print(f"For numbers_x: {res_x}")
+print(f"For numbers_y: {res_y}")
